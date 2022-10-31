@@ -1,0 +1,20 @@
+body {
+    font-family: cursive;
+    background-image: url(img/hutanmxm.jpg);
+    background-size: cover;
+  }
+
+.contact a{
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    font-size: 17px;
+    color: #eee;
+    cursor: pointer;
+    margin-right: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-bottom: 35px;
+  }
